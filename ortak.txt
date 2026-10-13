@@ -1,1 +1,3 @@
 initial commit
+trialcodeservice eklendi
+brain service eklendi
